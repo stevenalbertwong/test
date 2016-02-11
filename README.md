@@ -1,3 +1,5 @@
+# test
+I like sunshine
 
 # test
 do you think it is beacuase the change is made by ZZ 
@@ -31,3 +33,5 @@ Alt + B	Move cursor backward one word on the current line
 Tab	Auto-complete files and folder names
 
 I made some changes.
+
+I also want to make further changes.
