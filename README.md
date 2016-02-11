@@ -1,4 +1,5 @@
 # test
+<<<<<<< HEAD
 
 
 Ctrl + A	Go to the beginning of the line you are currently typing on
@@ -18,3 +19,4 @@ Alt + F	Move cursor forward one word on the current line
 Alt + B	Move cursor backward one word on the current line
 Tab	Auto-complete files and folder names
 
+I made some changes.
