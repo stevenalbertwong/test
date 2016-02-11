@@ -1,7 +1,18 @@
+
 # test
-<<<<<<< HEAD
-
-
+do you think it is beacuase the change is made by ZZ 
+this is changes made by master
+Could I delete that stupid swap file.
+this is the changes made by branch 3 
+change 4
+change 4
+change 6
+change 1909
+change 19
+change 10
+change 20
+chane 2192109
+change by master
 Ctrl + A	Go to the beginning of the line you are currently typing on
 Ctrl + E	Go to the end of the line you are currently typing on
 Ctrl + L              	Clears the Screen, similar to the clear command
